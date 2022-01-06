@@ -11,7 +11,7 @@ public class Rating {
     }
 
     public Rating(){
-        
+
     }
 
     public String getMovieId() {
